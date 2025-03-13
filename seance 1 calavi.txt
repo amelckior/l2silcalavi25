@@ -1,0 +1,69 @@
+kabirademon
+
+1. Présentation commentée du syllabus 
+
+2. Présentation des étudiants et identification d'un problème qu'ils pensent pouvoir résoudre avec l'informatique
+E-commerce (restauration)
+* Qui suis-je ? 
+* Compétences en informatique et autres 
+* Projection des 3 ans 
+* Attentes par rapport au cours 
+* Identification d'un problème dans votre environnement que l'informatique peut aider à résoudre : ECOLE, RESTAURANT, HOPITAUX, EGLISES, MOSQUEE, TOURISME, MARCHE, AGRICULTURE
+Sujets à utiliser l'examen pour la rédaction du protocole de recherche
+** PLATEFORME DE COMMUNICATION AVEC LES PARENTS D'ELEVES POUR LE SUIVI DES APPRENANTS (absences, évaluation, notes)
+** E-agriculture (agriculture de précision, IoT, Supervision)
+** E-agriculture (IA prédictive) 
+** Plateforme éducative de renforccement de capacités des élèves en Sciences (Mathématiques) 
+** Economie numérique 
+** Harmonisation des prix des marchés modernes (e-commerce) 
+** Plateforme de gestion des livraisons inter-pays 
+** Lenteur dans la livraison des produits 
+** Gestion des présences en classe (emprente digitale, reconnaissance faciale IA
+** Gestion de la disponibilité des enseignants et des salles 
+** Orientation et attribution des filières pour les nouveaux bacheliers non pertinente (feedback personnalisé basé sur l'IA plutôt qu'une attribution mécanique, entretien poussé au delà des notes, attribution conditionnée par la validation d'un semestre, faire appel aux résultats antérieurs plutô que de se baser sur les notes aux BAC, notamment grâce à l'existence d'une appli de gestion des notes.)
+** Progiciel intégré de gestion d'établissement scolaire : cas de la gestion des notes 
+
+3. Evaluation diagnostique "Etude de performance SQL vs NOSQL 
+
+Quelques bonnes pratiques issues de la présentation du résultat d'un groupe 
+
+** Structuration des titres des différentes sections 
+** Sigles et abréviation
+** Enumérations 
+** Tableaux 
+** Image
+** Références bibliographiques (outil intégré Word, Zotero)
+
+***************
+Après-midi : 
+
+1. Qu'est-ce que la recherche ? 
+
+** acquérir de nouvelles connaissances 
+** résoudre un problème 
+** publier nos résultats dans un document scientifique
+
+
+2. La méthodologie renvoie à quoi ? 
+
+** démarche 
+** processus
+** comment conduire la recherche
+
+3. Quelques exemples de documents scientifiques 
+   Dans quels documents sont consignés les résultats de nos recherches ? 
+** rapports 
+** livres
+** mémoires
+** articles scientifiques
+ 
+4. Quelles sont les caractéristiques d'un bon document scientifique ? 
+** problématique
+** domaine précis
+** contribution originale à l'évolution d'une situation implique de manière implicite la réalisation de ce qu'on appelle : [état de l'art] ou revue de littérature ?
+
+5. Lien entre la contribution originale à l'évolution d'une situation et l'état de l'art 
+
+6. Lien entre Diplôme et Document scientifique 
+
+7. Plagiat
