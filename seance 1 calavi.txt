@@ -1,6 +1,4 @@
-kabirademon
-
-1. Présentation commentée du syllabus 
++1. Présentation commentée du syllabus 
 
 2. Présentation des étudiants et identification d'un problème qu'ils pensent pouvoir résoudre avec l'informatique
 E-commerce (restauration)
@@ -10,6 +8,9 @@ E-commerce (restauration)
 * Attentes par rapport au cours 
 * Identification d'un problème dans votre environnement que l'informatique peut aider à résoudre : ECOLE, RESTAURANT, HOPITAUX, EGLISES, MOSQUEE, TOURISME, MARCHE, AGRICULTURE
 Sujets à utiliser l'examen pour la rédaction du protocole de recherche
+
+** M
+** Market place d'annonce et ventes d'immobilier 
 ** PLATEFORME DE COMMUNICATION AVEC LES PARENTS D'ELEVES POUR LE SUIVI DES APPRENANTS (absences, évaluation, notes)
 ** E-agriculture (agriculture de précision, IoT, Supervision)
 ** E-agriculture (IA prédictive) 
@@ -67,3 +68,17 @@ Après-midi :
 6. Lien entre Diplôme et Document scientifique 
 
 7. Plagiat
+7.1 Définition du plagiat 
+7.2 Différentes formes de plagiat 
+7.3 Différence entre le plagiat et le contenu généré par l'IA
+7.4 Quelques plateformes de détection de plagiat (duplicatechecker, quetext)
+7.5 Une plateforme de détection de contenu généré par l'IA (zerogpt)
+
+8. Plan type de rédaction d'un protocole de recherche 
+
+Analyse des besoins 
+
+Conception 
+
+
+Résultats et discussions
