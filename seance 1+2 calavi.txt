@@ -133,10 +133,24 @@ Algorithme de rédaction d'une introduction + temps des verbes
 De quoi il s'agit ? 
  ** Contexte + Problématique
 Comment y répondre ? 
-** Annonce du plan 
+** Objectifs et Annonce du plan 
 Temps des verbes : Tous les temps 
 
-
 Algorithme de rédaction d'une conclusion + temps des verbes
+Rappeler les objectifs initiaux 
+Impacts des résultats obtenus 
+Perspectives (travaux futurs, limites)
+
+Temps des verbes : Passé + Futur et le conditionnel. 
+
 Algorithme de rédaction d'un résumé + temps des verbes
+
+** Probléme
+** Méthodologie (comment avez-vous résolu le problème ?)
+** Résultats obtenus
+** Impacts (Intérêt)
+
+Mots clés : entre 3 et 6 maximum 
+Temps des verbes : Présent
+
 Bonnes pratiques pour réussir sa présentation et prise en main de PowerPoint + CANVA
