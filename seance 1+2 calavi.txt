@@ -77,8 +77,66 @@ Après-midi :
 8. Plan type de rédaction d'un protocole de recherche 
 
 Analyse des besoins 
-
 Conception 
-
-
 Résultats et discussions
+
+
+Séance 2 : 14/03/2025
+
+Evaluation (Devoir) 
+
+Suite plan type d'un protocole de recherche 
+** Qu'est-ce que le contexte ? 
+La situation qui a engendré le problème
+
+** Qu'est-ce que la problématique ? 
+Un motif d'insatisfaction, ce qui est par rapport à ce qui devrait être 
+
+** Objectifs 
+*** Objectif général 
+*** Objectifs spécifiques
+
+Plan type 
+1. INTRODUCTION
+2. PRESENTATION DU SUJET
+2.1. Contexte
+2.2. Problématique
+2.3. Objectifs
+2.3.1 Objectif général
+2.3.2 Objectifs spécifiques
+3. ANALYSE DES BESOINS ET CONCEPTION
+3.1 Analyse des besoins
+3.2 Conception 
+4. RESULTATS ET DISCUSSION
+4.1. Résultats
+4.2. Discussions
+5. CHRONOGRAMME DE TRAVAIL 
+6. CONCLUSION
+
+9. Où trouver nos sources ?
+** Sites web fiables
+** IEEE XPLORE ou GOOGLE SCHOLAR 
+** CYBERLIBRIS (international.scholarvox.com)
+** Anciens mémoires (mémoire online)
+
+10. TP de mise en place d'un chronogramme de travail avec EXCEL intégrant une liste déroulante
+
+11. Plan type d'un mémoire 
+
+Définition et éléments constitutifs des pages liminaires 
+TP de structuration d'un document pour respecter les paginations associées à chaque section
+TP de génération automatique de table des matières, de table des figures et de liste des tableaux
+
+
+Algorithme de rédaction d'une introduction + temps des verbes
+
+De quoi il s'agit ? 
+ ** Contexte + Problématique
+Comment y répondre ? 
+** Annonce du plan 
+Temps des verbes : Tous les temps 
+
+
+Algorithme de rédaction d'une conclusion + temps des verbes
+Algorithme de rédaction d'un résumé + temps des verbes
+Bonnes pratiques pour réussir sa présentation et prise en main de PowerPoint + CANVA
