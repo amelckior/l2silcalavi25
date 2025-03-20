@@ -1,0 +1,44 @@
+frontend, html/css, python, microcontroleur, sites web, php, infographie, mysql, C++, wordpress, maquettes web, analyse de données, Excel, 
+
+
+1.Assister les policiers 
+  Remplacer les policiers par un système automatique au niveau des feux tricolores
+
+2. Connaître les hopitaux à proximité et les services disponibles dans ces hôpitaux 
+
+3.Gestion d'un héliport
+  sureté aérienne dans le contexte des hélicoptères sans pilote. 
+4. Mauvaise gestion des déchets 
+développer une application ( ) pour permettre aux citoyens de notifier une zone où il y a des déchets
+
+5. Gestion des paiements sécurisés dans les marchés 
+code qr, sécurité, 
+
+
+Présentation commentée du syllabus 
+
+Qu'est-ce que la recherche (innovation, questionner sur des problèmes, analyser le problème, partager ou publier ces résultats, apporter une solution, contribuer de façon originale à l'évolution d'une situation, consigner les résultats dans un document scientifique)
+
+Quelques exemples de documents scientifiques (livres, mémoires, articles scientifiques) 
+
+La méthodologie renvoie à quoi ? (processus, procédure, moyens techniques, démarche, règles, approche) ==> COMMENT ? 
+
+Qu'est-ce que l'état de l'art ou la revue critique de la littérature ? 
+(etude des travaux similaires, étude des bonnes pratiques sur le plan technologique)
+Qu'est-ce qu'un protocole de recherche ? 
+Quel est le plan type d'un protocole de recherche ? 
+Commentaire de chaque partie. 
+Réalisation pratique d'un chronogramme de travail avec MS Excel 
+
+
+Qu'est-ce que le plagiat ? 
+Définition 
+LLogiciels de détection de plagiat et de contenus rédigés par l'IA (Zerogpt, quetext, duplicatechecker, e-plagiat)
+
+
+Qu'est-ce que la génération de contenu par l'Intelligence Artificielle ? 
+
+La gestion des références bibliographiques avec : 
+- Zotero 
+- Word 
+Quelles sont les sources dites fiables dans le cadre de la rédaction d'un mémoire ?
